@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://alaahedhly.usestellify.com"><img src="https://img.shields.io/badge/Portfolio-alaahedhly-6366f1?style=for-the-badge" alt="Portfolio" /></a>
   <a href="https://hortensia-agency.com"><img src="https://img.shields.io/badge/Hortensia-Agency-0ea5e9?style=for-the-badge" alt="Hortensia Agency" /></a>
 </p>
 
@@ -18,7 +19,8 @@
 
 - Running **[Hortensia Agency](https://hortensia-agency.com)** — delivering production web & mobile apps for paying clients.
 - Shipping a **50-app Linux desktop utility suite** (GTK3 + Python) — 15 already deployed and in daily use.
-- Always something on the side: a trading bot, learning apps, and this portfolio.
+- Building my **[portfolio](https://alaahedhly.usestellify.com)** — Next.js 15 + React 19 with a full admin panel (blog, projects, contacts, RBAC).
+- Always something on the side: a trading bot and learning apps.
 
 I care about correctness, security, and shipping things people actually use — not demos.
 
@@ -57,6 +59,7 @@ I care about correctness, security, and shipping things people actually use — 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| **[Portfolio](https://alaahedhly.usestellify.com)** | My personal site + full admin panel (blog, projects, RBAC) | Next.js 15 · React 19 · Prisma |
 | **[quick-settings](https://github.com/alaahedhly/quick-settings)** | Windows 11-style quick settings panel for Linux | Python · GTK3 |
 | **[backup-manager](https://github.com/alaahedhly/backup-manager)** | rsync backup manager with incremental snapshots | Python · GTK3 |
 | **[clipvault](https://github.com/alaahedhly/clipvault)** | Clipboard manager with search and image support | Python · GTK3 |
@@ -82,6 +85,7 @@ I care about correctness, security, and shipping things people actually use — 
 ### Connect
 
 <p align="center">
-  <a href="https://hortensia-agency.com"><img src="https://img.shields.io/badge/Website-hortensia--agency.com-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://alaahedhly.usestellify.com"><img src="https://img.shields.io/badge/Portfolio-alaahedhly.usestellify.com-6366f1?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://hortensia-agency.com"><img src="https://img.shields.io/badge/Agency-hortensia--agency.com-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Agency" /></a>
   <a href="https://github.com/alaahedhly"><img src="https://img.shields.io/badge/GitHub-alaahedhly-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
