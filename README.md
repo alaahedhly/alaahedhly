@@ -1,7 +1,7 @@
 <h1 align="center">Med Alaa Hedhly</h1>
 
 <p align="center">
-  Senior Software Engineer · SaaS Founder · Agency Operator
+  Senior Software Engineer · Agency Operator
 </p>
 
 <p align="center">
@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://usestellify.com"><img src="https://img.shields.io/badge/Stellify-SaaS-6366f1?style=for-the-badge" alt="Stellify" /></a>
   <a href="https://hortensia-agency.com"><img src="https://img.shields.io/badge/Hortensia-Agency-0ea5e9?style=for-the-badge" alt="Hortensia Agency" /></a>
 </p>
 
@@ -17,7 +16,6 @@
 
 ### About
 
-- Building **[Stellify](https://usestellify.com)** — my own SaaS product.
 - Running **[Hortensia Agency](https://hortensia-agency.com)** — delivering production web & mobile apps for paying clients.
 - Shipping a **50-app Linux desktop utility suite** (GTK3 + Python) — 15 already deployed and in daily use.
 - Always something on the side: a trading bot, learning apps, and this portfolio.
@@ -84,6 +82,6 @@ I care about correctness, security, and shipping things people actually use — 
 ### Connect
 
 <p align="center">
-  <a href="https://usestellify.com"><img src="https://img.shields.io/badge/Website-usestellify.com-6366f1?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://hortensia-agency.com"><img src="https://img.shields.io/badge/Website-hortensia--agency.com-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://github.com/alaahedhly"><img src="https://img.shields.io/badge/GitHub-alaahedhly-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
