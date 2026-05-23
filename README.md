@@ -62,29 +62,47 @@ I care about correctness, security, and shipping things people actually use — 
 
 Web & mobile platforms I've designed and shipped. Full case studies on my **[portfolio →](https://alaahedhly.usestellify.com/projects)**
 
-| Project | What it is | Stack | Status |
-| --- | --- | --- | :---: |
-| **[Glowit](https://glowit.tn)** | Beauty & salon booking platform for Tunisia — web + mobile | Next.js · React Native | Live |
-| **[Stelify](https://usestellify.com)** | Music streaming & artist collaboration — 8,100+ songs | Next.js · TypeScript | Live |
-| **[Reestock](https://reestock.tn)** | B2B food supply platform connecting establishments, providers & delivery | Next.js · PostgreSQL | Live |
-| **AutoFlow** | Marketing automation platform — n8n workflows + 22 templates | Next.js · n8n | — |
-| **Thryve** | AI-powered student workspace — chat, integrity tools, wellness | Next.js · TypeScript | — |
-| **Primavera LMS** | French learning management system — courses, video, payments | Next.js · TypeScript | — |
-| **Aprecia** | Employee recognition platform — points & badge rewards | Next.js · PostgreSQL | — |
-| **Trading Bot** | AI-driven multi-asset quant system with backtesting | Next.js · FastAPI | — |
+<div align="center">
+
+<table>
+<thead>
+<tr><th>Project</th><th>What it is</th><th>Stack</th><th>Status</th></tr>
+</thead>
+<tbody>
+<tr><td><b><a href="https://glowit.tn">Glowit</a></b></td><td>Beauty &amp; salon booking platform for Tunisia — web + mobile</td><td>Next.js · React Native</td><td align="center">Live</td></tr>
+<tr><td><b><a href="https://usestellify.com">Stelify</a></b></td><td>Music streaming &amp; artist collaboration — 8,100+ songs</td><td>Next.js · TypeScript</td><td align="center">Live</td></tr>
+<tr><td><b><a href="https://reestock.tn">Reestock</a></b></td><td>B2B food supply platform connecting establishments, providers &amp; delivery</td><td>Next.js · PostgreSQL</td><td align="center">Live</td></tr>
+<tr><td><b>AutoFlow</b></td><td>Marketing automation platform — n8n workflows + 22 templates</td><td>Next.js · n8n</td><td align="center">—</td></tr>
+<tr><td><b>Thryve</b></td><td>AI-powered student workspace — chat, integrity tools, wellness</td><td>Next.js · TypeScript</td><td align="center">—</td></tr>
+<tr><td><b>Primavera LMS</b></td><td>French learning management system — courses, video, payments</td><td>Next.js · TypeScript</td><td align="center">—</td></tr>
+<tr><td><b>Aprecia</b></td><td>Employee recognition platform — points &amp; badge rewards</td><td>Next.js · PostgreSQL</td><td align="center">—</td></tr>
+<tr><td><b>Trading Bot</b></td><td>AI-driven multi-asset quant system with backtesting</td><td>Next.js · FastAPI</td><td align="center">—</td></tr>
+</tbody>
+</table>
+
+</div>
 
 ## Open source — Linux desktop suite
 
 GTK3 + Python utilities, packaged and deployed to `/opt` with systemd timers. Six of fifteen shipped:
 
-| App | What it is | Stack |
-| --- | --- | --- |
-| **[quick-settings](https://github.com/alaahedhly/quick-settings)** | Windows 11-style quick settings panel for Linux | Python · GTK3 |
-| **[backup-manager](https://github.com/alaahedhly/backup-manager)** | rsync backup manager with incremental snapshots | Python · GTK3 |
-| **[clipvault](https://github.com/alaahedhly/clipvault)** | Clipboard manager with search and image support | Python · GTK3 |
-| **[mintsweep](https://github.com/alaahedhly/mintsweep)** | System cleaner for Linux Mint and Ubuntu | Python · GTK3 |
-| **[netmount](https://github.com/alaahedhly/netmount)** | Network share manager — SMB, SFTP, NFS | Python · GTK3 |
-| **[inkforge](https://github.com/alaahedhly/inkforge)** | Vector design editor with animation support | JavaScript · GTK3 · WebKit |
+<div align="center">
+
+<table>
+<thead>
+<tr><th>App</th><th>What it is</th><th>Stack</th></tr>
+</thead>
+<tbody>
+<tr><td><b><a href="https://github.com/alaahedhly/quick-settings">quick-settings</a></b></td><td>Windows 11-style quick settings panel for Linux</td><td>Python · GTK3</td></tr>
+<tr><td><b><a href="https://github.com/alaahedhly/backup-manager">backup-manager</a></b></td><td>rsync backup manager with incremental snapshots</td><td>Python · GTK3</td></tr>
+<tr><td><b><a href="https://github.com/alaahedhly/clipvault">clipvault</a></b></td><td>Clipboard manager with search and image support</td><td>Python · GTK3</td></tr>
+<tr><td><b><a href="https://github.com/alaahedhly/mintsweep">mintsweep</a></b></td><td>System cleaner for Linux Mint and Ubuntu</td><td>Python · GTK3</td></tr>
+<tr><td><b><a href="https://github.com/alaahedhly/netmount">netmount</a></b></td><td>Network share manager — SMB, SFTP, NFS</td><td>Python · GTK3</td></tr>
+<tr><td><b><a href="https://github.com/alaahedhly/inkforge">inkforge</a></b></td><td>Vector design editor with animation support</td><td>JavaScript · GTK3 · WebKit</td></tr>
+</tbody>
+</table>
+
+</div>
 
 ## GitHub stats
 
