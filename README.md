@@ -16,12 +16,12 @@
 
 ## About
 
-- Running **[Hortensia Agency](https://hortensia-agency.com)** — production web & mobile apps for paying clients across SaaS, e-commerce, e-learning, and social.
-- Building my **[portfolio](https://alaahedhly.usestellify.com)** — Next.js 15 + React 19 with a full admin panel (blog, projects, contacts, RBAC).
-- Shipping a **50-app Linux desktop utility suite** (GTK3 + Python) — 15 already deployed and in daily use.
+- Running **[Hortensia Agency](https://hortensia-agency.com)**: production web & mobile apps for paying clients across SaaS, e-commerce, e-learning, and social.
+- Building my **[portfolio](https://alaahedhly.usestellify.com)**: Next.js 15 + React 19 with a full admin panel (blog, projects, contacts, RBAC).
+- Shipping a **50-app Linux desktop utility suite** (GTK3 + Python), 15 already deployed and in daily use.
 - On the side: a quantitative trading bot and AI-driven learning apps.
 
-I care about correctness, security, and shipping things people actually use — not demos.
+I care about correctness, security, and shipping things people actually use, not demos.
 
 ## Tech I work with
 
@@ -69,20 +69,20 @@ Web & mobile platforms I've designed and shipped. Full case studies on my **[por
 <tr><th>Project</th><th>What it is</th><th>Stack</th><th>Status</th></tr>
 </thead>
 <tbody>
-<tr><td><b><a href="https://glowit.tn">Glowit</a></b></td><td>Beauty &amp; salon booking platform for Tunisia — web + mobile</td><td>Next.js · React Native</td><td align="center">Live</td></tr>
-<tr><td><b><a href="https://usestellify.com">Stelify</a></b></td><td>Music streaming &amp; artist collaboration — 8,100+ songs</td><td>Next.js · TypeScript</td><td align="center">Live</td></tr>
+<tr><td><b><a href="https://glowit.tn">Glowit</a></b></td><td>Beauty &amp; salon booking platform for Tunisia, web + mobile</td><td>Next.js · React Native</td><td align="center">Live</td></tr>
+<tr><td><b><a href="https://usestellify.com">Stelify</a></b></td><td>Music streaming &amp; artist collaboration, 8,100+ songs</td><td>Next.js · TypeScript</td><td align="center">Live</td></tr>
 <tr><td><b><a href="https://reestock.tn">Reestock</a></b></td><td>B2B food supply platform connecting establishments, providers &amp; delivery</td><td>Next.js · PostgreSQL</td><td align="center">Live</td></tr>
-<tr><td><b>AutoFlow</b></td><td>Marketing automation platform — n8n workflows + 22 templates</td><td>Next.js · n8n</td><td align="center">—</td></tr>
-<tr><td><b>Thryve</b></td><td>AI-powered student workspace — chat, integrity tools, wellness</td><td>Next.js · TypeScript</td><td align="center">—</td></tr>
-<tr><td><b>Primavera LMS</b></td><td>French learning management system — courses, video, payments</td><td>Next.js · TypeScript</td><td align="center">—</td></tr>
-<tr><td><b>Aprecia</b></td><td>Employee recognition platform — points &amp; badge rewards</td><td>Next.js · PostgreSQL</td><td align="center">—</td></tr>
-<tr><td><b>Trading Bot</b></td><td>AI-driven multi-asset quant system with backtesting</td><td>Next.js · FastAPI</td><td align="center">—</td></tr>
+<tr><td><b>AutoFlow</b></td><td>Marketing automation platform with n8n workflows + 22 templates</td><td>Next.js · n8n</td><td align="center"></td></tr>
+<tr><td><b>Thryve</b></td><td>AI-powered student workspace: chat, integrity tools, wellness</td><td>Next.js · TypeScript</td><td align="center"></td></tr>
+<tr><td><b>Primavera LMS</b></td><td>French learning management system: courses, video, payments</td><td>Next.js · TypeScript</td><td align="center"></td></tr>
+<tr><td><b>Aprecia</b></td><td>Employee recognition platform with points &amp; badge rewards</td><td>Next.js · PostgreSQL</td><td align="center"></td></tr>
+<tr><td><b>Trading Bot</b></td><td>AI-driven multi-asset quant system with backtesting</td><td>Next.js · FastAPI</td><td align="center"></td></tr>
 </tbody>
 </table>
 
 </div>
 
-## Open source — Linux desktop suite
+## Open source: Linux desktop suite
 
 GTK3 + Python utilities, packaged and deployed to `/opt` with systemd timers. Six of fifteen shipped:
 
@@ -97,7 +97,7 @@ GTK3 + Python utilities, packaged and deployed to `/opt` with systemd timers. Si
 <tr><td><b><a href="https://github.com/alaahedhly/backup-manager">backup-manager</a></b></td><td>rsync backup manager with incremental snapshots</td><td>Python · GTK3</td></tr>
 <tr><td><b><a href="https://github.com/alaahedhly/clipvault">clipvault</a></b></td><td>Clipboard manager with search and image support</td><td>Python · GTK3</td></tr>
 <tr><td><b><a href="https://github.com/alaahedhly/mintsweep">mintsweep</a></b></td><td>System cleaner for Linux Mint and Ubuntu</td><td>Python · GTK3</td></tr>
-<tr><td><b><a href="https://github.com/alaahedhly/netmount">netmount</a></b></td><td>Network share manager — SMB, SFTP, NFS</td><td>Python · GTK3</td></tr>
+<tr><td><b><a href="https://github.com/alaahedhly/netmount">netmount</a></b></td><td>Network share manager: SMB, SFTP, NFS</td><td>Python · GTK3</td></tr>
 <tr><td><b><a href="https://github.com/alaahedhly/inkforge">inkforge</a></b></td><td>Vector design editor with animation support</td><td>JavaScript · GTK3 · WebKit</td></tr>
 </tbody>
 </table>
