@@ -62,9 +62,7 @@ I care about correctness, security, and shipping things people actually use, not
 
 Web & mobile platforms I've designed and shipped. Full case studies on my **[portfolio →](https://alaahedhly.usestellify.com/projects)**
 
-<div align="center">
-
-<table>
+<table align="center">
 <thead>
 <tr><th>Project</th><th>What it is</th><th>Stack</th><th>Status</th></tr>
 </thead>
@@ -80,15 +78,11 @@ Web & mobile platforms I've designed and shipped. Full case studies on my **[por
 </tbody>
 </table>
 
-</div>
-
 ## Open source: Linux desktop suite
 
 GTK3 + Python utilities, packaged and deployed to `/opt` with systemd timers. Six of fifteen shipped:
 
-<div align="center">
-
-<table>
+<table align="center">
 <thead>
 <tr><th>App</th><th>What it is</th><th>Stack</th></tr>
 </thead>
@@ -101,8 +95,6 @@ GTK3 + Python utilities, packaged and deployed to `/opt` with systemd timers. Si
 <tr><td><b><a href="https://github.com/alaahedhly/inkforge">inkforge</a></b></td><td>Vector design editor with animation support</td><td>JavaScript · GTK3 · WebKit</td></tr>
 </tbody>
 </table>
-
-</div>
 
 ## GitHub stats
 
