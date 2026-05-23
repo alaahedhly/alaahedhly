@@ -66,7 +66,7 @@ Web & mobile platforms I've designed and shipped. Full case studies on my **[por
 | --- | --- | --- | :---: |
 | **[Glowit](https://glowit.tn)** | Beauty & salon booking platform for Tunisia — web + mobile | Next.js · React Native | Live |
 | **[Stelify](https://usestellify.com)** | Music streaming & artist collaboration — 8,100+ songs | Next.js · TypeScript | Live |
-| **Reestock** | B2B food supply platform connecting establishments, providers & delivery | Next.js · PostgreSQL | Live |
+| **[Reestock](https://reestock.tn)** | B2B food supply platform connecting establishments, providers & delivery | Next.js · PostgreSQL | Live |
 | **AutoFlow** | Marketing automation platform — n8n workflows + 22 templates | Next.js · n8n | — |
 | **Thryve** | AI-powered student workspace — chat, integrity tools, wellness | Next.js · TypeScript | — |
 | **Primavera LMS** | French learning management system — courses, video, payments | Next.js · TypeScript | — |
@@ -94,8 +94,6 @@ GTK3 + Python utilities, packaged and deployed to `/opt` with systemd timers. Si
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaahedhly&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaahedhly&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=alaahedhly&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
